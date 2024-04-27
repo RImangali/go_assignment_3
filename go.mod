@@ -1,4 +1,4 @@
-module go_assignment_3
+module github.com/go_assignment_3
 
 go 1.21.6
 
