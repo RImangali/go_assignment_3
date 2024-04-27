@@ -1,4 +1,4 @@
-module practice_1
+module go_assignment_3
 
 go 1.21.6
 
